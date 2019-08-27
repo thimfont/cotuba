@@ -1,4 +1,7 @@
-package cotuba;
+package cotuba.cli;
+
+import cotuba.application.Cotuba;
+import cotuba.cli.LeitorOpcoesCLI;
 
 import java.nio.file.Path;
 
