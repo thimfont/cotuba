@@ -15,7 +15,7 @@ public class Main {
 
             Cotuba cotuba = new Cotuba();
             cotuba.executa(formato, diretorioDosMD, arquivoDeSaida);
-            
+
             System.out.println("Arquivo gerado com sucesso: " + arquivoDeSaida);
 
         } catch (Exception ex) {
